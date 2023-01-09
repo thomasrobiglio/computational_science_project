@@ -1,0 +1,5 @@
+0.8288065608797195
+ 
+ 
+ 
+Process details: step_max = 200000 n_MC = 1000000 epsilon = 0.5 alpha = 0.05
